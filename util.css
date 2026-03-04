@@ -5068,7 +5068,7 @@ h4 {
 }
 
 .d_block{
-    display: block;
+    display: block !important;
 }
 .d_iflex{
     display: inline-flex;
